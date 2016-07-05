@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="banner">
+        <attr name="indicator_select_drawable" format="integer"/>
+        <attr name="indicator_unselect_drawable" format="integer"/>
+        <attr name="indicator_show" format="boolean"/>
+        <attr name="banner_scroll" format="boolean"/>
+    </declare-styleable>
+</resources>

@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "F:\\me\\downloadProject\\AutoViewPager\\app\\build\\intermediates\\res\\merged\\debug\\values-v21\\values-v21.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 87,
+                    "endOffset": 138
+                },
+                "from": {
+                    "file": "F:\\me\\downloadProject\\AutoViewPager\\app\\src\\main\\res\\values-v21\\styles.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endColumn": 88,
+                        "endOffset": 141
+                    }
+                }
+            }
+        ]
+    }
+]

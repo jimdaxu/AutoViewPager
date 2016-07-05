@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="banner"><attr format="integer" name="indicator_select_drawable"/><attr format="integer" name="indicator_unselect_drawable"/><attr format="boolean" name="indicator_show"/><attr format="boolean" name="banner_scroll"/></declare-styleable>
+    <string name="app_name">AutoViewPager</string>
+    <style name="AppTheme" parent="@android:style/Theme.Holo.Light.DarkActionBar"/>
+</resources>
